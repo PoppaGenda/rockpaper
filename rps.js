@@ -54,6 +54,7 @@ function game()
     playround(playerchoice); 
     scorecard();
 }
+//Adding scoreboard
 function scorecard(){
     if(playerscore>computerscore)
     {
